@@ -1,4 +1,4 @@
-﻿# libcirc-alt-unix
+﻿# libcirc-alt-windows
 
 version: 1.3-alt
 
